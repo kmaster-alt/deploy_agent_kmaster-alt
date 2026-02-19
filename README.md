@@ -41,3 +41,5 @@ Create a compressed archive (.tar.gz)
 Delete the incomplete directory.
 
 Exit safely
+
+video link:https://youtu.be/xHcQH4DvpPI
